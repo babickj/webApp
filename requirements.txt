@@ -4,7 +4,6 @@ aiohttp==3.6.3
 aiohttp-socks==0.5.5
 alabaster==0.7.12
 anaconda-client==1.2.2
-anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 anyconfig==0.9.11
 appdirs==1.4.4
